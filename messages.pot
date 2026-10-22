@@ -14925,9 +14925,10 @@ msgstr ""
 #: cps/templates/cwa_settings.html
 msgid ""
 "When enabled, fetched metadata only fills in what a book is missing (for "
-"example an empty description, a missing series or cover) and adds new tags, "
-"but never replaces data the book already has. When disabled, fetched metadata"
-" will replace existing data as-is from the preferred provider."
+"example an empty description, a missing series or cover) and adds new "
+"tags, but never replaces data the book already has. When disabled, "
+"fetched metadata will replace existing data as-is from the preferred "
+"provider."
 msgstr ""
 
 #: cps/templates/cwa_settings.html
